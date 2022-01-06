@@ -24,8 +24,8 @@ The documentation will be updated when there is an opportunity. If you'd like to
 
 Download the platform you wish to use:
 
-* [iOS Dist](https://github.com/benbahrenburg/Securely/tree/master/iOS/dist)
-* [Android Dist](https://github.com/benbahrenburg/Securely/tree/master/Android/dist)
+* [iOS Dist](https://github.com/mbender74/Securely/tree/master/iOS/dist)
+* [Android Dist](https://github.com/mbender74/Securely/tree/master/Android/dist)
 
 <h2>Building from source?</h2>
 
