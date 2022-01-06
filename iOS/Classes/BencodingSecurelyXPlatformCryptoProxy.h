@@ -7,7 +7,7 @@
 
 #import "TiProxy.h"
 #import "TiUtils.h"
-
+#import <TitaniumKit/TiBlob.h>
 @interface BencodingSecurelyXPlatformCryptoProxy: TiProxy {
 
 }
